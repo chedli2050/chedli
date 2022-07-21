@@ -1,3 +1,6 @@
+alert(screen.width);
+alert(screen.height);
+
 var d = new Date();
 
     var annee = d.getFullYear();
